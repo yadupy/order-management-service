@@ -1,0 +1,19 @@
+{
+    "id": "d37291a7-9929-400d-9170-99aace2fb957",
+    "firstName": "naruto",
+    "lastName": "uzumaki",
+    "email": "naruto.uzumaki@gmail.com",
+    "contactNumber": "9785481258",
+    "createdAt": "2023-12-11T07:50:00.917998",
+    "updatedAt": "2023-12-11T07:50:00.917998",
+    "address": [
+      {
+        "addressId": "3898db4e-fb79-43db-9b14-c902cc0040ab",
+        "houseNo": "b-402",
+        "street": "pratap raod",
+        "city": "gurugram",
+        "state": "haryana",
+        "pinCode": "122001"
+      }
+    ]
+}

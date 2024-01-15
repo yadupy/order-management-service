@@ -1,0 +1,13 @@
+{
+  "status": "CREATED",
+  "items": [
+    {
+      "foodItemId": "b1e68e88-eb49-4e48-94d1-4ec3c202c7a5",
+      "quantity": 2
+    }
+  ],
+  "customerId": "13854757-75ab-45fb-993a-2192ff14a417",
+  "addressId": "64fc78f4-9eb4-419a-90b4-f9b3a84837f6",
+  "restaurantId": "70077916-7723-41a5-a503-fc44597688fa",
+  "total": 0
+}

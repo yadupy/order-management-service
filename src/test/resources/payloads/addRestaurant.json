@@ -1,0 +1,37 @@
+{
+  "name": "kababs and curries",
+  "address": "kababs and curries gurgaon",
+  "email": "kababsandcurries@gmail.com",
+  "contactNumber": "9785481229",
+  "imageUrl": "assesst",
+  "areaServes": [
+    0
+  ],
+  "items": [
+    {
+      "name": "burger",
+      "price": 120,
+      "description": "burger",
+      "imageUrl": "assesst"
+    },
+    {
+      "name": "pizza",
+      "price": 400,
+      "description": "pizza",
+      "imageUrl": "assesst"
+    },
+    {
+      "name": "cappuccino",
+      "price": 100,
+      "description": "cappuccino",
+      "imageUrl": "assesst"
+    },
+    {
+      "foodItemId": "3",
+      "name": "calzone",
+      "price": 250,
+      "description": "calzone",
+      "imageUrl": "assesst"
+    }
+  ]
+}
